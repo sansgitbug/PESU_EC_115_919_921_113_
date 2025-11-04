@@ -10,7 +10,7 @@ The goal is to predict masked words efficiently based on probabilistic letter pa
 Traditional Hangman agents guess letters based on overall frequency (e.g., “e”, “t”, “a”).  
 This project goes beyond that by integrating **word-length-specific HMMs** and **transition/positional probability learning**, improving the success rate over a simple baseline.
 
-It optionally extends to **Q-Learning / Deep Q-Learning (DQL)** for reinforcement-based decision making.
+It extends to **Q-Learning / Deep Q-Learning (DQL)** for reinforcement-based decision making.
 
 ---
 
